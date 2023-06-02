@@ -6,4 +6,4 @@ Projeto "MarioGame" #HTML #CSS #Javascript
 https://mariogame.tiiny.site/
 
 Projeto "Ecommerce" #HTML # CSS #Javascript
-https://mariogame.tiiny.site/
+https://projetoecommerce.tiiny.site
